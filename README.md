@@ -1,1 +1,1 @@
-# IITAdmissionsDataset
+# IIT Admissions Dataset
